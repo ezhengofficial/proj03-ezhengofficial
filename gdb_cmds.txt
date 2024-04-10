@@ -1,0 +1,14 @@
+break explode_bomb
+#break *0x0000555555555906
+#break *0x0000555555555943
+#break phase_6
+#break *0x0000555555555ad2
+#break *0x00005555555559cb
+#break *0x00005555555559a4
+#break *0x0000555555555997
+break secret_phase
+break *0x0000555555555bd8
+break *0x0000555555555c92
+run <solution_193.txt
+#p $eax
+#disas

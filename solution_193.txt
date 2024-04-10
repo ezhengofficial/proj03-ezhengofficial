@@ -1,1 +1,8 @@
-Standards are important! Everybody shouldb have one.
+Standards are important! Everybody should have one.
+0 84
+hello 21
+120 20 -16 40 GordianKnot
+???777
+3 6 1 4 5 2
+1 2 3 4 5 6
+ 
