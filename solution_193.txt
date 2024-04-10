@@ -1,1 +1,1 @@
-set disassemble-next-line on
+Standards are important! Everybody shouldb have one.
